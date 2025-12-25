@@ -1,1 +1,6 @@
-grb
+kab
+*.tsv.backup
+*.backup
+*.pyc
+__pycache__/
+.DS_Store
